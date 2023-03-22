@@ -1,0 +1,24 @@
+*{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+section
+{
+    position:relative;
+    background-color: #fffacd;
+}
+form{
+    background-color: orange;
+}
+img{
+    left: 200px;
+}
+
+header,
+footer{
+    background-color:darksalmon;
+}
+.form{
+    position: absolute;
+    margin: 0 auto;
+
+}
